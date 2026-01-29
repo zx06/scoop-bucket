@@ -6,14 +6,14 @@
             "bin": [
                 "xsql.exe"
             ],
-            "hash": "a8061619919b9e457550f9775298f664248fe233e5927a4be1caec56fe11fc61"
+            "hash": "a2e0c33fbfd23d5a77b73ed6a12964a19edcc97bd265efba496c5f9bf0ff474c"
         },
         "arm64": {
             "url": "https://github.com/zx06/xsql/releases/download/v0.0.1/xsql_0.0.1_windows_arm64.zip",
             "bin": [
                 "xsql.exe"
             ],
-            "hash": "c9f4cd30efe53c69d1bd3e65c9210d956390ce2e06265ebeb30f8ff7ba9761ed"
+            "hash": "a02677cb69f88aaf53feb5d31e4ac8f7f5dbfc011ed2217c21057ea9b82b2d1f"
         }
     },
     "homepage": "https://github.com/zx06/xsql",
