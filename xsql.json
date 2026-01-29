@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zx06/xsql/releases/download/v0.0.1/xsql_0.0.1_windows_amd64.zip",
+            "bin": [
+                "xsql.exe"
+            ],
+            "hash": "a8061619919b9e457550f9775298f664248fe233e5927a4be1caec56fe11fc61"
+        },
+        "arm64": {
+            "url": "https://github.com/zx06/xsql/releases/download/v0.0.1/xsql_0.0.1_windows_arm64.zip",
+            "bin": [
+                "xsql.exe"
+            ],
+            "hash": "c9f4cd30efe53c69d1bd3e65c9210d956390ce2e06265ebeb30f8ff7ba9761ed"
+        }
+    },
+    "homepage": "https://github.com/zx06/xsql",
+    "license": "MIT",
+    "description": "AI-first cross-database CLI tool with SSH proxy support"
+}
