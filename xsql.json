@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0-alpha.1",
+    "version": "1.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zx06/xsql/releases/download/v1.2.0-alpha.1/xsql_1.2.0-alpha.1_windows_amd64.zip",
+            "url": "https://github.com/zx06/xsql/releases/download/v1.20.0/xsql_1.20.0_windows_amd64.zip",
             "bin": [
                 "xsql.exe"
             ],
-            "hash": "7a39bae7d0827d33ec54518093b1ab0f2943b87fb7044775ac551583648474cd"
+            "hash": "8a03dc430a5114cac0d72d442754db1cc9e842e160a29ec20c96626f4ca5da18"
         },
         "arm64": {
-            "url": "https://github.com/zx06/xsql/releases/download/v1.2.0-alpha.1/xsql_1.2.0-alpha.1_windows_arm64.zip",
+            "url": "https://github.com/zx06/xsql/releases/download/v1.20.0/xsql_1.20.0_windows_arm64.zip",
             "bin": [
                 "xsql.exe"
             ],
-            "hash": "708a28fb13b7dd283aaffd978399735acee419faf52ca096b82edb10c757fe25"
+            "hash": "fc4d0187fef30c17ce93805ef53b7f491efdffe7d062ae307a7a318ef710b3a3"
         }
     },
     "homepage": "https://github.com/zx06/xsql",
